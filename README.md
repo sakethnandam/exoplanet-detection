@@ -1,4 +1,5 @@
 # exoplanet-detection
+TIKE portal url: https://timeseries.science.stsci.edu/hub/login?next=%2Fhub%2F
 
 Log in/create an account to the [TIKE portal]([url](https://timeseries.science.stsci.edu/hub/login?next=%2Fhub%2F))
 Select “Launch,” then select the option for 16 GB.
